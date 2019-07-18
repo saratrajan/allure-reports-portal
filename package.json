@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon"
   },
-  "repository": "https://github.com/pumano/allure-reports-portal",
+  "repository": "https://github.com/saratrajan/allure-reports-portal",
   "keywords": [
     "allure",
     "reports",
@@ -15,7 +15,7 @@
     "portal",
     "typescript"
   ],
-  "author": "Dmitry Zakharov",
+  "author": "Sarat Rajan",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.1.3",
