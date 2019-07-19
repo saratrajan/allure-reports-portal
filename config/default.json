@@ -1,5 +1,5 @@
 {
-  "routes": ["feature_v2pipeline_69", "feature_v2pipeline_70", "feature_v2pipeline_71"],
+  "routes": ["project1", "project2", "youranotherproject"],
   "port": 3000
 }
 
